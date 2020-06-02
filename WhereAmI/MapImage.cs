@@ -34,7 +34,7 @@ namespace WhereAmI
         private static Uri BuildURI(GeoCoordinate location)
         {
             #region HERE App ID & App Code
-            string HereApi_ApiKey = "ZSkW1GjdLS-WGct1ILlVqs6T9-gzO3TqQ-1rSIAd6Yg";
+            string HereApi_ApiKey = "";
             #endregion
 
             var HereApi_DNS = "image.maps.ls.hereapi.com";
